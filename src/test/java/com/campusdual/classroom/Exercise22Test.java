@@ -54,7 +54,5 @@ class Exercise22Test {
         assertTrue(addedElement1, "First element AAAAA added succesfully");
         assertTrue(addedElement2, "Second element AAAAA added succesfully");
         assertTrue(arrayList.indexOf("AAAAA") != arrayList.lastIndexOf("AAAAA"), "First element and second element are in the same position)" );
-
-
     }
 }
